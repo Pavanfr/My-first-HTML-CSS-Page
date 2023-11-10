@@ -1,0 +1,47 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(250, 178, 178);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 50px;
+}
+h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 30px;
+}
+a {
+    background-color: greenyellow;
+}
+#Reference-image {
+    width: 300px;
+}
+.first {
+    color: brown;
+}
+.second {
+    color: blueviolet;
+}
+.third {
+    color: blueviolet;
+}
+h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#Already-know {
+   background-color: rgb(244, 20, 4);
+   border: 10px;
+   width: fit-content;
+   text-align: center;
+}
